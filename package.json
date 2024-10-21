@@ -1,0 +1,10 @@
+{
+  "name": "haxcms-starter",
+  "private": true,
+  "scripts": {
+    "start": "npx @haxtheweb/haxcms-nodejs"
+  },
+  "dependencies": {
+    "@haxtheweb/haxcms-nodejs": "^9.0.6"
+  }
+}
